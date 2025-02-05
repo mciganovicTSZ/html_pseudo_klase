@@ -1,0 +1,12 @@
+p:nth-of-type(2) {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+p:nth-of-type(3) {
+    color: #CC0000;
+}
+p:nth-of-type(4) {
+    background-color: #00FF00;
+}
+p:nth-of-type(5) {
+    font-size: 22px;
+}
